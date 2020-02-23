@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gungstar1986/nodejs-basic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gungstar1986/nodejs-basic/issues"
+  },
+  "homepage": "https://github.com/gungstar1986/nodejs-basic#readme",
+  "dependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
